@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+Scripts
+Lib
+Include
+pyvenv.cfg
+db.sqlite3
+/static
+.DS_Store
+pip-selfcheck.json
+.idea/
